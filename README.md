@@ -1,6 +1,8 @@
 
 
-### Olá! Me chamo Luisa Melo ✌️ 
+### Olá! Me chamo Luisa Melo ✌️
+
+Sou uma pessoa que ama Arte, Design e Programação
 
 Me siga nas redes sociais:
 
@@ -11,7 +13,7 @@ Me siga nas redes sociais:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Conhecimentos: 
+### Conhecimentos em andamento: 
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
