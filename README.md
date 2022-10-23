@@ -4,10 +4,11 @@
 
 Me siga nas redes sociais:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Luisa-Melo-Dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/Luisa-Melo-Dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cotinho_melo_)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melo-Luisa&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Conhecimentos: 
@@ -20,5 +21,6 @@ Me siga nas redes sociais:
 </div></br>
 
 ### Entre em Contato:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luhcotmel@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.gmail.com/luhcotmel@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](luhcotmel@gmail.com)
  
