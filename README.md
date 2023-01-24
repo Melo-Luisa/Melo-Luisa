@@ -1,6 +1,8 @@
 
 
 <h1 align='center'>Olá! Me chamo Luisa Melo 🤖</h1>
+<img alt='banner' src='[![readme (1)](https://user-images.githubusercontent.com/97964206/214337687-aee02934-08ca-4891-ba4e-30cdab6145ff.png)
+'>
 <h3 align='center'> Resume:</h3>
 <li align='center'>Sou estudante de programção</li>
 <li align='center'>universitária na IFPR em Ciência da Computação.</li>
@@ -24,6 +26,7 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img align="center" alt="PHP" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br><br><br>
+![readme](https://user-images.githubusercontent.com/97964206/214337974-deb25534-d85b-487f-915b-66bfc271795d.png)
 
  
 
