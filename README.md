@@ -1,8 +1,8 @@
 
 
-###                                                 Olá! Me chamo Luisa Melo ✌️
-
-Sou uma pessoa que ama Arte, Design e Programação
+###                                                 Olá! Me chamo Luisa Melo 🤖
+<h3> Resume:</h3>
+<p>Sou estudante de programção, universitária na IFPR em Ciência da Computação. Participei do projeto ONE - Oracle Next Education. Uma pessoa que ama Arte, Design e Programação</p>
 
 Me siga nas redes sociais:
 
