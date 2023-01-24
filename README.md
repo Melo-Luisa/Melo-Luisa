@@ -7,7 +7,7 @@
 <li>Participei do projeto ONE - Oracle Next Education.</li>
 <li>Uma pessoa que ama Arte, Design e Programação</li>
 
-Me siga nas redes sociais:
+<h3>Me siga nas redes sociais:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/Luisa-Melo-Dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cotinho_melo_)
