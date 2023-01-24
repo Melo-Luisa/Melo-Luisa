@@ -1,7 +1,7 @@
 
 
 ###                                                 Olá! Me chamo Luisa Melo 🤖
-<h3> Resume:</h3>
+<h3 align='center'> Resume:</h3>
 <li>Sou estudante de programção</li>
 <li>universitária na IFPR em Ciência da Computação.</li>
 <li>Participei do projeto ONE - Oracle Next Education.</li>
