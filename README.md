@@ -1,20 +1,19 @@
 
 
-###                                                 Olá! Me chamo Luisa Melo 🤖
+<h1 align='center'>Olá! Me chamo Luisa Melo 🤖</h1>
 <h3 align='center'> Resume:</h3>
 <li align='center'>Sou estudante de programção</li>
 <li align='center'>universitária na IFPR em Ciência da Computação.</li>
 <li align='center'>Participei do projeto ONE - Oracle Next Education.</li>
 <li align='center'>Uma pessoa que ama Arte, Design e Programação</li>
 
-<h3>Me siga nas redes sociais:</h3>
+<h3 align='center'>Me siga nas redes sociais:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/Luisa-Melo-Dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cotinho_melo_)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melo-luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Conhecimentos em andamento: 
+<h1 align='center'> Conhecimentos em andamento: </h1>
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
