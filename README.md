@@ -1,6 +1,6 @@
 
 <img alt='banner' align='center' src='./Group 2.png'>
-<h3 align='center'> Resume:</h3>
+<h2 align='center'> Resume:</h2>
 <li align='center'>Sou estudante de programção</li>
 <li align='center'>universitária na IFPR em Ciência da Computação.</li>
 <li align='center'>Participei do projeto ONE - Oracle Next Education.</li>
