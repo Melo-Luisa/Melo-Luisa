@@ -25,6 +25,6 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melo-luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
