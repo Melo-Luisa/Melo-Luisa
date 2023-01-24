@@ -9,11 +9,10 @@
 <li align='center'>Participei do projeto ONE - Oracle Next Education.</li>
 <li align='center'>Uma pessoa que ama Arte, Design e Programação</li>
 
-<h1 align='center'>Me siga nas redes sociais:</h1>
+<h3>Me siga nas redes sociais:</h3>
 
-<img align='center' src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/Luisa-Melo-Dev)">
-<img align='center' src"[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cotinho_melo_)">
-<img align="center" alt="PHP" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/Luisa-Melo-Dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cotinho_melo_)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melo-luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align='center'> Conhecimentos em andamento: </h1>
