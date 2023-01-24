@@ -1,7 +1,5 @@
 
-
-<h1 align='center'>Olá! Me chamo Luisa Melo 🤖</h1>
-<img alt='banner' src='readme(1).png'>
+<img alt='banner' src='./readme (1).png'>
 <h3 align='center'> Resume:</h3>
 <li align='center'>Sou estudante de programção</li>
 <li align='center'>universitária na IFPR em Ciência da Computação.</li>
