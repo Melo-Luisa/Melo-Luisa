@@ -1,5 +1,5 @@
 
-<img alt='banner' src='./Group 2.png'>
+<img alt='banner' align='center' src='./Group 2.png'>
 <h3 align='center'> Resume:</h3>
 <li align='center'>Sou estudante de programção</li>
 <li align='center'>universitária na IFPR em Ciência da Computação.</li>
