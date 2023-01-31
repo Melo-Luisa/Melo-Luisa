@@ -1,4 +1,4 @@
-
+<div style: align='center'>
 <img alt='banner' align='center' src='./Group 2.png'>
 <h2 > Resume:</h2>
 <li >Sou estudante de programção</li>
@@ -12,6 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cotinho_melo_)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melo-luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 <h1 align='center'> Conhecimentos em andamento: </h1>
 
 <div style="display: inline_block" align='center'><br/>
