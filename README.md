@@ -8,8 +8,8 @@
 
 <h3>Me siga nas redes sociais:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/Luisa-Melo-Dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cotinho_melo_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin/in/Luisa-Melo-Dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/cotinho_melo_)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melo-luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </div>
