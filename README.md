@@ -3,7 +3,7 @@
 <img alt='banner' align='center' src='./Group 2 (1).png'>
 <h2 > Resume:</h2>
 <li >Sou estudante de programção</li>
-<li >universitária na IFPR em Ciência da Computação.</li>
+<li >Universitária na IFPR em Ciência da Computação.</li>
 <li >Participei do projeto ONE - Oracle Next Education.</li>
 <li >Uma pessoa que ama Arte, Design e Programação</li>
 
