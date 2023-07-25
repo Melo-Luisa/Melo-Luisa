@@ -1,17 +1,17 @@
 <div style: align='center'>
-<h3>Olá! Me chamo:</h3>
+<h3>Hey! I'm:</h3>
 <img alt='banner' align='center' src='./Group 2 (1).png'>
-<h2 > Resume:</h2>
-<li >Sou estudante de programção</li>
-<li >Universitária na IFPR em Ciência da Computação.</li>
-<li >Participei do projeto ONE - Oracle Next Education.</li>
-<li >Uma pessoa que ama Arte, Design e Programação</li>
+<h2 > Resumé:</h2>
+<li >Program Student</li>
+<li >University on IFPR in Computer Science</li>
+<li >Former student of ONE - Oracle Next Education.</li>
+<li >A person who loves Math, Design and Programming</li>
+<li> More at <a href="https://melo-luisa.github.io/portfolio/">luisa-melo.dev</li>
 
-<h3>Me siga nas redes sociais:</h3>
+<h3>Follow me on Social Midia:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/Luisa-Melo-Dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/cotinho_melo_)
- <br><a href="https://melo-luisa.github.io/portfolio/">Portfólio</a><br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/cotinho_melo_)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
  </div>
