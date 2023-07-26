@@ -15,15 +15,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
  </div>
-<h1 align='center'> Conhecimentos em andamento: </h1>
+<h1 align='center'> Hard Skills</h1>
 
 <div style="display: inline_block" align='center'><br/>
-<img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img  alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img  alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img  alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img  alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img alt="PHP" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img  alt="HTML5" src="https://img.shields.io/badge/HTML%20-%20orange">
+<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%20grey">
+<img alt="js" src="https://img.shields.io/badge/JAVASCRIPT%20-%20violet">
+<img alt="python" src="https://img.shields.io/badge/PYTHON%20-%20blue">
+<img alt="php" src="https://img.shields.io/badge/PHP%20-%20purple">
+<img alt="Mysql" src="https://img.shields.io/badge/MySQL%20-%20black">
+<img alt="C++"src="https://img.shields.io/badge/C%2B%2B%20-%20Green">
+
 </div></br><br><br>
 
 
