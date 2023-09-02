@@ -3,7 +3,7 @@
 <img alt='banner' align='center' src='./Group 2 (1).png'>
 <h2 > Resumé:</h2>
 <li >Program Student</li>
-<li >University on IFPR in Computer Science</li>
+<li >University on UTFPR in Computer Engineering </li>
 <li >Former student of ONE - Oracle Next Education.</li>
 <li >A person who loves Math, Design and Programming</li>
 <li> More at <a href="https://melo-luisa.github.io/portfolio/">luisa-melo.dev</li>
