@@ -5,7 +5,7 @@
 <li >Program Student</li>
 <li >University on UTFPR in Computer Engineering </li>
 <li >Former student of ONE - Oracle Next Education.</li>
-<li >A person who loves Math, Design and Programming</li>
+<li >A person who loves Math, Design and Programing</li>
 <li> More at <a href="https://melo-luisa.github.io/portfolio/">luisa-melo.dev</li>
 
 <h3>Follow me on Social Midia:</h3>
