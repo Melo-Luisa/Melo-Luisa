@@ -1,22 +1,19 @@
 <div style: align='center'>
 <h3>Hey! I'm:</h3>
 <img alt='banner' align='center' src='./Group 2 (1).png'>
-<h2 > Resumé:</h2>
-<li >Program Student</li>
-<li >University on UTFPR in Computer Engineering </li>
-<li >Former student of ONE - Oracle Next Education.</li>
-<li >A person who loves Math, Design and Programing</li>
-<li> More at <a href="https://melo-luisa.github.io/portfolio/">luisa-melo.dev</li>
+<h2> Computer Engineering Student</h2>
+<h3>About Me</h3>
+<ul>🎓Computer Engineering student at UTFPR</ul>
+<ul>🌐 Former student at ONE - Oracle Next Education</ul>
+<ul>🧡 Passionate about Math, Design, and Programming</ul>
 
 <h3>Follow me on Social Midia:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Luisa-Melo-Dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/cotinho_melo_)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-
  </div>
 <h1 align='center'> Hard Skills</h1>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 <div style="display: inline_block" align='center'><br/>
 <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
