@@ -3,9 +3,9 @@
 <img alt='banner' align='center' src='./Group 2 (1).png'>
 <h2> Computer Engineering Student</h2>
 <h3>About Me</h3>
-<ul>🎓Computer Engineering student at UTFPR</ul>
-<ul>🌐 Former student at ONE - Oracle Next Education</ul>
-<ul>🧡 Passionate about Math, Design, and Programming</ul>
+<li>Computer Engineering student at UTFPR</li>
+<li> Former student at ONE - Oracle Next Education</li>
+<li> Passionate about Math, Design, and Programming</li>
 
 <h3>Follow me on Social Midia:</h3>
 
