@@ -1,6 +1,6 @@
 <div style: align='center'>
 <h3>Hey! I'm:</h3>
-<img alt='banner' align='center' src='./LuisaMelo! (3).gif'>
+<img alt='banner' align='center' src='./LuisaMelo! (4).gif'>
 <h2> Computer Engineering Student</h2>
 <h3>About Me</h3>
 <li>Computer Engineering student at UTFPR</li>
