@@ -11,7 +11,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Luisa-Melo-Dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/cotinho_melo_)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact&langs_count=6&bg_color=ffffff&title_color=FB9224&text_color=000000&hide_border=false"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Melo-Luisa&show_icons=true&include_all_commits=true&count_private=true&bg_color=FB9224&title_color=000000&text_color=ffffff&icon_color=000000&hide_border=true" >
+ 
  </div>
 <h1 align='center'> Hard Skills</h1>
 
