@@ -17,7 +17,7 @@
 
 <div style="display: inline_block" align='center'><br/>
 
-<img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="js" src="https://img.shields.io/badge/JavaScript-E8D827?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -26,6 +26,8 @@
 <img alt="analytic" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
 <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img alt="arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img alt="C" src="https://img.shields.io/badge/C-575652?style=for-the-badge&logo=C&logoColor=white">
+
 
 </div></br><br><br>
 
