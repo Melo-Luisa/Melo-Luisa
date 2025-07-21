@@ -2,8 +2,8 @@
 <h3>I'm 👋 Luisa Melo </h3>
 <p align="left"> 
   
-  Sou estudante de Engenharia da Computação 💻 na Universidade Tecnológica Federal do Paraná. Tenho aprofundado meus conhecimentos em <strong>Java e C++</strong>, também gosto bastante de Análise de Dados e eletrônica.
-  Não esqueça de conferir meu projetos recentes:
+  I’m a Computer Engineering student 💻 at the Federal University of Technology – Paraná. I’ve been deepening my knowledge in <strong>Java and C++</strong>, and I’m also really into Data Analysis and Electronics.
+Don’t forget to check out my recent projects:
   <li>🍵 7DaysOfCode - Java</li>
   <li>🍅 AuTomato</li>
   <li>🎮 GameBoy</li>
