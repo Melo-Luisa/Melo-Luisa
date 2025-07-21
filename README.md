@@ -1,28 +1,22 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h3>I'm 👋 Luisa Melo </h3>
+<p align="left"> 
+  
+  Sou estudante de Engenharia da Computação 💻 na Universidade Tecnológica Federal do Paraná. Tenho aprofundado meus conhecimentos em <strong>Java e C++</strong>, também gosto bastante de Análise de Dados e eletrônica.
+  Não esqueça de conferir meu projetos recentes:
+  <li>🍵 7DaysOfCode - Java</li>
+  <li>🍅 AuTomato</li>
+  <li>🎮 GameBoy</li>
+</p>
 
 
-<div style: align='center'>
-<h3>Hey! I'm:</h3>
-<img alt='banner' align='center' src='./I'm.gif'>
-<h2> Computer Engineering Student</h2>
-<h3>About Me</h3>
-<li>Computer Engineering student at UTFPR</li>
-
-<h3>Statistcs</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact&langs_count=6&bg_color=ffffff&title_color=800080&text_color=000000&hide_border=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Melo-Luisa&show_icons=true&include_all_commits=true&count_private=true&bg_color=800080&title_color=ffffff&text_color=ffffff&icon_color=000000&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
-
+<h3>Statistics </h3>
+<div align="center">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact&langs_count=6&bg_color=ffffff&title_color=800080&text_color=000000&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Melo-Luisa&show_icons=true&include_all_commits=true&count_private=true&bg_color=800080&title_color=ffffff&text_color=ffffff&icon_color=000000&hide_border=true"/>
  </div>
-<h1 align='center'> Hard Skills</h1>
+ 
+<h3 align='center'> Hard Skills</h3>
 
 <div style="display: inline_block" align='center'><br/>
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -35,7 +29,7 @@
 <img alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></div>
 
 
-<h1 align='center'> Contact </h1>
+<h3 align='center'> Contact </h3>
 <p align="center">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=luhcotmel@gmail.com" alt="Gmail"/></a>
