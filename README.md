@@ -4,9 +4,9 @@
   
   I’m a Computer Engineering student 💻 at the Federal University of Technology – Paraná. I’ve been deepening my knowledge in <strong>Java and C++</strong>, and I’m also really into Data Analysis and Electronics.
 Don’t forget to check out my recent projects:
-  <li>🍵 7DaysOfCode - Java</li>
-  <li>🍅 AuTomato</li>
-  <li>🎮 GameBoy</li>
+  <li>🍵 FimlApi - Java</li>
+  <li>🍅 AuTomato - C++</li>
+  <li>🎮 GameBoy - C++</li>
 </p>
 
 
