@@ -2,7 +2,7 @@
 
 <div style: align='center'>
 <h3>Hey! I'm:</h3>
-<img alt='banner' align='center' src='./LuisaMelo! (4).gif'>
+<img alt='banner' align='center' src='./I'm.gif'>
 <h2> Computer Engineering Student</h2>
 <h3>About Me</h3>
 <li>Computer Engineering student at UTFPR</li>
