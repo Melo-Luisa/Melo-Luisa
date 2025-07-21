@@ -29,7 +29,7 @@
 <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img alt="arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C-575652?style=for-the-badge&logo=C&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-575652?style=for-the-badge&logo=C&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-575652?style=for-the-badge&logo=Java&logoColor=black">
 
 
 </div></br><br><br>
