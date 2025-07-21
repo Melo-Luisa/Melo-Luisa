@@ -5,6 +5,7 @@
   I’m a Computer Engineering student 💻 at the Federal University of Technology – Paraná. I’ve been deepening my knowledge in <strong>Java and C++</strong>, and I’m also really into Data Analysis and Electronics.
 Don’t forget to check out my recent projects:
   <li>🍵 FimlApi - Java</li>
+
   <li>🍅 AuTomato - C++</li>
   <li>🎮 GameBoy - C++</li>
 </p>
@@ -12,8 +13,9 @@ Don’t forget to check out my recent projects:
 
 <h3>Statistics </h3>
 <div align="left">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact&langs_count=6&bg_color=ffffff&title_color=800080&text_color=000000&hide_border=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&hide_progress=true&bg_color=ffffff&title_color=800080&text_color=000000&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Melo-Luisa&show_icons=true&include_all_commits=true&count_private=true&bg_color=800080&title_color=ffffff&text_color=ffffff&icon_color=000000&hide_border=true"/>
+
  </div>
  
 <h3 align='center'> Hard Skills</h3>
