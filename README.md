@@ -12,7 +12,7 @@ Don’t forget to check out my recent projects:
 
 <h3>Statistics </h3>
 <div align="left">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&hide_progress=false&bg_color=ffffff&title_color=800080&text_color=000000&hide_border=true&layout=donut"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luis&hide_progress=false&bg_color=ffffff&title_color=800080&text_color=000000&hide_border=true&layout=donut"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Melo-Luisa&show_icons=true&include_all_commits=true&count_private=true&bg_color=800080&title_color=ffffff&text_color=ffffff&icon_color=000000&hide_border=true"/>
 
  </div>
