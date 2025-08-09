@@ -2,7 +2,7 @@
 <h3>Hi there!👋 I'm Luisa Melo </h3>
 <p align="left"> 
   
-  I’m a Computer Engineering student 💻 at the Federal University of Technology – Paraná. I’ve been deepening my knowledge in <strong>Java and C++</strong>, and I’m also really into Data Analysis and Electronics.
+  I’m a Computer Engineering student 💻 at the Federal University of Technology – Paraná and currently working as a Manufacturing Performance Intern (Machining) at Horse Powertrain 🐎. I’ve been deepening my knowledge in <strong>Java and Python</strong>, and I’m also really into Data Analysis and Electronics.
 Don’t forget to check out my recent projects:
   <li>🐼 Pandas - Python</li>
   <li>🍵 FimlApi - Java</li>
