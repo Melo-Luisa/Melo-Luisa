@@ -1,47 +1,94 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <h3>Hi there!👋 I'm Luisa Melo </h3>
 <p align="left"> 
-  
-  I’m a Computer Engineering student 💻 at the Federal University of Technology – Paraná and currently working as a Manufacturing Performance Intern (Machining) at Horse Powertrain 🐎. I’ve been deepening my knowledge in <strong>PHP, Python and Java</strong>, and I’m also really into Data Analysis.
-Don’t forget to check out my recent projects:
-  <li>🗓️ Grade Inteligente </li>
-  <li>🐼 Pandas - Python</li>
-  <li>🍵 FimlApi - Java</li>
-  <li>🍅 AuTomato - C++</li>
-</p>
+<h1 align="center">Hi 👋, I'm Luisa Melo</h1>
 
-
-<h3>Statistics </h3>
-<div align="left">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&hide_progress=false&bg_color=ffffff&title_color=800080&text_color=000000&hide_border=true&layout=donut"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&hide_progress=false&bg_color=ffffff&layout=donut"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Melo-Luisa&show_icons=true&include_all_commits=true&count_private=true&bg_color=800080&title_color=ffffff&text_color=ffffff&icon_color=000000&hide_border=true"/>
-
- </div>
- 
-<h3 align='center'> Hard Skills</h3>
-
-<div style="display: inline_block" align='center'><br/>
-<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></div>
-
-
-<h3 align='center'> Contact </h3>
 <p align="center">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=luhcotmel@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luisa-melo/" alt="LinkedIn"/></a>
+💻 Computer Engineering Student at UTFPR <br/>
+📊 Passionate about Data, AI & Software Development <br/>
+🚀 Currently Manufacturing Performance Intern at Horse Powertrain
 </p>
 
+---
 
-</div></br><br><br>
+## 👩‍💻 About Me
+
+* 🎓 Computer Engineering student at UTFPR
+* 🧠 Interested in **Data Engineering, Machine Learning & LLMs**
+* 💼 Experience with manufacturing data & performance analysis
+* 🛠️ Working with **Python, JavaScript, PHP & SQL**
+* 🌱 Currently improving skills in **data pipelines and AI applications**
+
+---
+
+## 🚀 Projects
+
+Here are some of my recent projects:
+
+* 🗓️ **Grade Inteligente** – Academic organization system
+* 🐼 **Data Analysis with Pandas** – Exploratory data projects
+* 🍵 **FilmAPI (Java)** – REST API project
+* 🍅 **AuTomato (C++ + ESP32)** – Smart Pomodoro IoT device
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Melo-Luisa&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo-Luisa&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+ <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100"/>
+
+Exemplo:
+
+* 🥇 GitHub Achievement: Pull Shark
+* 🧠 GitHub Achievement: Quickdraw
+* 🔥 GitHub Achievement: YOLO
+
+
+---
+
+## 📫 Contact
+
+<p align="center">
+<a href="mailto:luhcotmel@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/luisa-melo/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐ *Always open to learning, building and collaborating on impactful projects!*
+
+
 
 
  
