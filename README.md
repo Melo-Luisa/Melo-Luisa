@@ -11,13 +11,11 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 Computer Engineering student at UTFPR
 * 🧠 Interested in **Data Engineering, Machine Learning & LLMs**
 * 💼 Experience with manufacturing data & performance analysis
 * 🛠️ Working with **Python, JavaScript, PHP & SQL**
 * 🌱 Currently improving skills in **data pipelines and AI applications**
 
----
 
 ## 🚀 Projects
 
@@ -28,8 +26,6 @@ Here are some of my recent projects:
 * 🍵 **FilmAPI (Java)** – REST API project
 * 🍅 **AuTomato (C++ + ESP32)** – Smart Pomodoro IoT device
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -39,10 +35,9 @@ Here are some of my recent projects:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 
 </div>
-
----
 
 ### 📊 Data & Analytics
 
@@ -55,7 +50,7 @@ Here are some of my recent projects:
 
 </div>
 
----
+
 
 ### ☁️ Cloud & Databases
 
@@ -66,18 +61,16 @@ Here are some of my recent projects:
 
 </div>
 
----
 
 ### ⚙️ Tools & Version Control
 
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge\&logo=git\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
 
 </div>
 
-
----
 
 ## 📊 GitHub Stats
 
@@ -89,20 +82,6 @@ Here are some of my recent projects:
 
 </div>
 
----
-
-## 🏆 Achievements
-
- <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100"/>
-
-Exemplo:
-
-* 🥇 GitHub Achievement: Pull Shark
-* 🧠 GitHub Achievement: Quickdraw
-* 🔥 GitHub Achievement: YOLO
-
-
----
 
 ## 📫 Contact
 
