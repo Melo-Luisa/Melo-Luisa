@@ -32,16 +32,50 @@ Here are some of my recent projects:
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Data & Analytics
+
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge\&logo=looker\&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 
 </div>
+
+---
+
+### ☁️ Cloud & Databases
+
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+</div>
+
+---
+
+### ⚙️ Tools & Version Control
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge\&logo=git\&logoColor=white)
+
+</div>
+
 
 ---
 
