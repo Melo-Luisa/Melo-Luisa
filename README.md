@@ -14,14 +14,13 @@
 * 🧠 Interested in **Data Engineering, Machine Learning & LLMs**
 * 💼 Experience with manufacturing data & performance analysis
 * 🛠️ Working with **Python, JavaScript, PHP & SQL**
-* 🌱 Currently improving skills in **data pipelines and AI applications**
+* 🌱 Currently improving skills in **data, developement and AI applications**
 
 
 ## 🚀 Projects
 
 Here are some of my recent projects:
 
-* 🗓️ **Grade Inteligente** – Academic organization system
 * 🐼 **Data Analysis with Pandas** – Exploratory data projects
 * 🍵 **FilmAPI (Java)** – REST API project
 * 🍅 **AuTomato (C++ + ESP32)** – Smart Pomodoro IoT device
